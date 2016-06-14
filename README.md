@@ -1,1 +1,1 @@
-# 5.2-Closures-Currying
+## 5 2 Closures Currying
